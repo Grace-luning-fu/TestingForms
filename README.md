@@ -1,4 +1,5 @@
 # TestingForms
 
-Greeting demo:
-add form and show results 
+Spring and Thymeleaf tutorial excercise
+Part 3 and part 4  
+Build forms and Validation 
